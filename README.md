@@ -71,5 +71,5 @@ The **Project Management Tool** is a web-based application designed to help team
 ## 🖼️ Screenshots
 Include screenshots of your project here. You can upload images to your repository and reference them like this:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2025-02-21 185527](https://github.com/user-attachments/assets/7b1f3ecc-8cb9-49a5-a1a2-74fa7a932243)
+
